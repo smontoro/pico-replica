@@ -1,0 +1,172 @@
+body {
+	background: #2A2A2A;
+	font-size: 14px;
+}
+
+.navigation {
+	background: #262626;
+	height: 80px;
+}
+
+.navigation .logo {
+	text-transform: uppercase;
+	color: #fff;
+	float: left;
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 20px;
+	margin-top: 15px;
+	padding: 15px 15px 15px 35px;
+}
+
+.navigation ul {
+	float: right;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 15px 35px 15px 15px;
+}
+
+.navigation li {
+	display: inline;
+}
+
+.navigation li.active a {
+	color: #FF6760;
+}
+
+.navigation a {
+	color: #D8D8D8;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 35px;
+}
+
+.header {
+	color: #D8D8D8;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-weight: 300;
+}
+
+
+.header h1 {
+	font-weight: 300;
+	margin-top: 65px;
+	font-size: 48px;
+}
+
+.header h1 span {
+	font-weight: bold;
+}
+
+.header h2 {
+	font-size: 36px;
+    font-weight: 300;
+    margin: 25px 0;
+}
+
+.header h2 span {
+	color: #FF6760;
+}
+
+.header a {
+	color: white;
+	background: #FF6760;
+	display: inline-block;
+	border-radius: 10px;
+	margin: 10px 0 75px 0;
+	padding: 15px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.features {
+	background: #F6F6F6;
+	color: #616161;
+	height: 450px;
+}
+
+.item {
+	float: left;
+	margin: 15px 0;
+	padding: 5px 0 20px 0;
+	text-align: center;
+	width: 33.3333333333%;
+}
+
+.fa-4x {
+	font-size: 4em;
+}
+
+.item h3 {
+	font-size: 20px;
+    padding: 5px 0;
+    font-weight: bold;
+}
+
+.item p {
+	font-size: 16px;
+}
+
+.footer {
+	color: #D8D8D8;
+	text-align: center;
+}
+
+.footer h4 {
+	font-size: 24px;
+	margin: 50px 0 25px 0;
+	}
+
+.footer p {
+	color: #858585;
+	font-size: 16px;
+}
+
+.footer p a {
+	color: #793F3D;
+}
+
+#social-icons {
+	margin: 15px 0 50px 0;
+}
+
+#social-icons a {
+	color: white;
+	text-decoration: none;
+}
+
+#social-icons .fa-twitter {
+	background: #5DAED5;
+	border-radius: 50%;
+	padding: 5px;
+}
+
+#social-icons .fa-facebook {
+	background: #4470CF;
+	border-radius: 50%;
+	padding: 5px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
